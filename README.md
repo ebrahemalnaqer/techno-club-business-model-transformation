@@ -152,5 +152,5 @@ The complete visual case study is available here:
 
 Computer Science & AI | Technology & Data | Business & Operations
 
-- LinkedIn: [linkedin.com/in/ebrahemalnaqer](https://linkedin.com/in/ebrahemalnaqer)
+- LinkedIn: [linkedin.com/in/ebrahemalnaqer](https://linkedin.com/in/ebraheemalnaqer)
 - GitHub: [github.com/ebrahemalnaqer](https://github.com/ebrahemalnaqer)
